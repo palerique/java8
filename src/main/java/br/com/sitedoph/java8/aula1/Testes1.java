@@ -1,4 +1,4 @@
-package br.com.sitedoph.java8;
+package br.com.sitedoph.java8.aula1;
 
 import java.util.ArrayList;
 import java.util.Comparator;
